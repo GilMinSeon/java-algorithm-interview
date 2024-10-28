@@ -90,3 +90,4 @@ Stack<Integer> stack = new Stack;
     stack.push(2);
     stack.pop(); // 2
     ```
+  
